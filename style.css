@@ -1,0 +1,44 @@
+h1{ color: forestgreen; font-size: 250%; font-weight: bold }    
+h2 { font-size: 150%;
+     font-style: italic;
+     color: yellow
+     }
+
+h4 { font-size: 150%;
+     font-style: italic;
+     color: yellow
+     }
+h1 {text-align: center;}
+
+h3 {text-align: center;}
+
+h4 {text-align: center;}
+     
+body {
+    background: maroon;
+    color: white;
+    font-size: 18pt;
+    font-family: 'Playfair Display', serif; 
+    padding: 10px;}
+    
+    
+    
+    
+nav li { border: 2px solid black; 
+        display: inline-block;
+        padding: 10px;
+        margin: 5px;
+        background: forestgreen; }
+        
+table { border: 2px solid black; border-collapse: collapse }
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 10px;
+    overflow: hidden;}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
